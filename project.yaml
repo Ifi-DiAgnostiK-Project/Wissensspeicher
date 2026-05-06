@@ -1,0 +1,107 @@
+title: >
+  <span style="background-color: rgba(26, 47, 94, 0.75); padding: 10px; color: white; border-radius: 5px;">
+    DiAgnostiK Lehr- und Lernraum
+  </span>
+
+comment: >
+  <br>
+  <span style="background-color: rgba(201, 168, 76, 0.75); padding: 8px; color: white; border-radius: 5px;">
+    Wissensspeicher
+  </span>
+
+logo: ./assets/img/slogan_hero.jpg
+
+navbar:
+  brand: >
+    <span>
+    <img src="./assets/img/Logo_234px.png" style="height:28px;object-fit:contain;margin-right:8px;" alt="DiAgnostiK Logo">
+    DiAgnostiK
+    </span>
+  url: "index.html"
+  background: "#1A2F5E"
+  theme: dark
+  links:
+    - label: Tischler
+      url: "tischler.html"
+    - label: SHK
+      url: "shk.html"
+    - label: Zahntechniker
+      url: "zahntechniker.html"
+    - label: Maler
+      url: "maler.html"
+    - label: Raumaustatter
+      url: "raumausstatter.html"
+    - label: Belehrungen
+      url: "belehrungen.html"
+    - label: Arbeits- und Gesundheitsschutz
+      url: "arbeits-und-gesundheitsschutz.html"
+    - label: Umfragen
+      url: "umfragen.html"
+    - label: Wissensspeicher
+      url: "wissensspeicher.html"
+      active: true
+    - label: Experimente
+      url: "experimente.html"
+    - label: Sonstige
+      url: "sonstige.html"
+
+footer: >
+  <div class="d-flex flex-wrap align-items-center justify-content-between gap-3 py-1 w-100">
+    <div>
+      <div class="text-uppercase small mb-1" style="letter-spacing:.07em;font-size:.72em;">Webseite</div>
+      <a href="https://uelu-digital.de/" class="fw-semibold text-decoration-none" style="color:#C9A84C;">uelu-digital.de</a>
+    </div>
+    <div class="text-center">
+      <div class="text-uppercase small mb-1" style="letter-spacing:.07em;font-size:.72em;">Gefördert durch</div>
+      <img src="./assets/img/Kombi-EU-SN-horizontal.jpg" style="height:44px;max-width:100%;object-fit:contain;">
+    </div>
+    <div class="text-md-end">
+      <div class="text-uppercase small mb-1" style="letter-spacing:.07em;font-size:.72em;">Unsere Partner</div>
+      <div class="d-flex flex-wrap gap-2 align-items-center justify-content-md-end">
+        <a href="https://www.gkz-ev.de/"><img src="./assets/img/gkz.jpg" style="height:40px;object-fit:contain;border-radius:4px;opacity:.8;" class="img-fluid" alt="GKZ"></a>
+        <a href="https://www.hwk-dresden.de/"><img src="./assets/img/hwk.png" style="height:40px;object-fit:contain;border-radius:4px;opacity:.8;" class="img-fluid" alt="HWK Dresden"></a>
+        <a href="https://tu-freiberg.de/"><img src="./assets/img/tubaf.png" style="height:40px;object-fit:contain;border-radius:4px;opacity:.8;" class="img-fluid" alt="TU Bergakademie Freiberg"></a>
+      </div>
+    </div>
+  </div>
+
+meta:
+  title: DiAgnostiK – Wissensspeicher und Makro-Bibliothek
+  description: >
+    Technische Beispiele, Makrobibliotheken und Layoutvorlagen für LiaScript-
+    Kursentwickler: Gefahrensymbole, Quiz-Templates, Drag-and-Drop und Bildquizze.
+
+# Main course collection
+collection:
+  - html: >
+      <div style="padding: 20px; background-color: rgba(26, 47, 94, 0.1); border-radius: 8px; margin: 20px 0;">
+        <h2>🗄️ Wissensspeicher und Makro-Bibliothek</h2>
+        <p>
+          Dieser Bereich sammelt <strong>technische Bausteine, Makrobibliotheken und Referenzbeispiele</strong>
+          für die Entwicklung von LiaScript-Kursen im DiAgnostiK-Projekt.
+        </p>
+        <p>
+          Enthalten sind Gefahrensymbol-Quizze, Layout- und Designvorlagen, Drag-and-Drop- und
+          Bildquiz-Templates sowie Makros für Holzarten, Piktogramme, Tapeten- und Textilpflegesymbole.
+        </p>
+      </div>
+
+
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/materials/Layoutkurs.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/materials/gefahrensymbole_als_Testquizze_und_Layout.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/materials/gefahrensymbole_groessen_test_v2.md
+
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/materials/hilke_sicherheit.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/materials/lueckentext_dropin.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/materials/mathe_bsp.md
+
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Holzarten/refs/heads/main/makros.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
+
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/makros.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Tapetensymbole/refs/heads/main/makros.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/materials/template.md
+
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_ImageQuiz/refs/heads/main/README.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
