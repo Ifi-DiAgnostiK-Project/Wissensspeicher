@@ -1,24 +1,19 @@
 <!--
-author:   Sebastian Zug
+author:    Sebastian Zug
+email:     sebastian.zug@informatik.tu-freiberg.de
+date:      2025-07-30
+version:   0.0.2
 
-language: de
+narrator:  German Female
+language:  de
 
-email:    sebastian.zug@informatik.tu-freiberg.de
+edit:      https://github.dev/Ifi-DiAgnostiK-Project/Wissensspeicher/blob/main/materials/lueckentext_dropin.md
 
-version: 0.0.2
-
-narrator: German Female
-
-edit: true
-
-date: 2025-07-30
-
-logo: ../assets/img/Logo_234px.png
-
-comment:  Lückentext Auswahl mit Drag and Drop
-title: Lückentext Drag and Drop
-
-tags: Wissensspeicher
+title:     Lückentext Drag and Drop
+logo:      ../assets/img/Logo_234px.png
+icon:      ../assets/img/Logo_234px.png
+comment:   Lückentext Auswahl mit Drag and Drop
+tags:      Wissensspeicher
 -->
 
 # Beispiel für Hilke

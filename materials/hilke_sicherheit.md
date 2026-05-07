@@ -1,53 +1,45 @@
 <!--
+author:    Hilke Domsch; Volker Göhler
+email:     hilke.domsch@gkz-ev.de
+date:      2025-06-15
+version:   0.1.3
 
-author: Hilke Domsch; Volker Göhler
+narrator:  Deutsch Female
+language:  de
 
-email:    hilke.domsch@gkz-ev.de
+edit:      https://github.dev/Ifi-DiAgnostiK-Project/Wissensspeicher/blob/main/materials/hilke_sicherheit.md
 
-version: 0.1.3
+title:     Arbeitssicherheit und Gesundheitsschutz - Sammlung
+logo:      ../assets/img/Logo_234px.png
+icon:      ../assets/img/Logo_234px.png
+comment:   Arbeitssicherheit & Gesundheitsschutz
+attribute: Sicherheitszeichen von
+           [Berufsgenossenschaft Holz und Metall](https://www.bghm.de/arbeitsschuetzer/praxishilfen/sicherheitszeichen)
+tags:      Arbeitssicherheit,
+           Gesundheitsschutz,
+           Wissensspeicher
 
-language: de
-
-narrator: Deutsch Female
-
-edit: true
-date: 2025-06-15
-logo: ../assets/img/Logo_234px.png
-
-comment:  Arbeitssicherheit & Gesundheitsschutz
-
-attribute: Sicherheitszeichen von [Berufsgenossenschaft Holz und Metall](https://www.bghm.de/arbeitsschuetzer/praxishilfen/sicherheitszeichen)
-
-import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
-import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
-import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_ImageQuiz/refs/heads/main/README.md
-
-title: Arbeitssicherheit und Gesundheitsschutz - Sammlung
-
-tags:   Arbeitssicherheit,
-        Gesundheitsschutz,
-        Wissensspeicher
+import:    https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_ImageQuiz/refs/heads/main/README.md
 
 @style
 .flex-container {
-    display: flex;[](https://liascript.github.io/LiveEditor/liascript/index.html?#5)
+    display: flex;
     flex-wrap: wrap; /* Allows the items to wrap as needed */
     align-items: stretch;
     gap: 20px; /* Adds both horizontal and vertical spacing between items */
 }
-
 .flex-child {
     flex: 1;
     margin-right: 20px; /* Adds space between the columns */
 }
-
 @media (max-width: 600px) {
     .flex-child {
         flex: 100%; /* Makes the child divs take up the full width on slim devices */
         margin-right: 0; /* Removes the right margin */
     }
 }
-
 .image_matrix img {
     padding: 3px;
     margin: 5px;
@@ -55,18 +47,12 @@ tags:   Arbeitssicherheit,
     border: 1px black solid;
     display:inline-block;
 }
-
 @end
-
 -->
 
 # Arbeitssicherheit und Gesundheitsschutz
 
---{{0}}--
-
-[](https://liascript.github.io/LiveEditor/liascript/index.html?#1)<!-- --{{0}}--
-Arbeitssicherheit und Gesundheitsschutz
--->
+[](https://liascript.github.io/LiveEditor/liascript/index.html?#1)
 
 >_Wie oft darf eine Frage falsch beantwortet werden, bevor die Lösung angezeigt wird? Wie wird im Hintergrund für den Lehrer registriert, wie viele Versuche es gab?_
 

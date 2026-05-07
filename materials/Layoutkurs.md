@@ -1,29 +1,30 @@
 <!--
-author: Volker Göhler
-email: volker.goehler@informatik.tu-freiberg.de
-language: de
-narrator: German Female
-version: 0.0.3
-edit: true
-date: 2025-12-04
-comment: Kurs zum Sammeln von Layout Elementen
-title: Layout Elemente Sammlung
+author:    Volker Göhler
+email:     volker.goehler@informatik.tu-freiberg.de
+date:      2025-12-04
+version:   0.0.3
 
-tags: Wissensspeicher
+narrator:  German Female
+language:  de
 
-link: ./style.css
+edit:      https://github.dev/Ifi-DiAgnostiK-Project/Wissensspeicher/blob/main/materials/Layoutkurs.md
 
-icon: ../assets/img/Logo_234px.png
-logo: https://upload.wikimedia.org/wikipedia/commons/e/ef/Programming_code.jpg
-attribute: title image -- Martin Vorel, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
+title:     Layout Elemente Sammlung
+icon:      ../assets/img/Logo_234px.png
+logo:      https://upload.wikimedia.org/wikipedia/commons/e/ef/Programming_code.jpg
+comment:   Kurs zum Sammeln von Layout Elementen
+attribute: title image -- Martin Vorel, CC BY-SA 4.0
+           <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
+tags:      Wissensspeicher
 
-import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_ImageQuiz/refs/heads/main/README.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Holzarten/refs/heads/main/makros.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/makros.md
 
+link:      style.css
+import:    https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_ImageQuiz/refs/heads/main/README.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Holzarten/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/makros.md
 -->
 
 # LiaScript Layout Elemente

@@ -1,26 +1,20 @@
 <!--
-author:   Volker Göhler
+author:    Volker Göhler
+email:     volker.goehler@informatik.tu-freiberg.de
+date:      2025-05-10
+version:   0.1.5
 
-language: de
+narrator:  German Female
+language:  de
 
-email:    volker.goehler@informatik.tu-freiberg.de
+edit:      https://github.dev/Ifi-DiAgnostiK-Project/Wissensspeicher/blob/main/materials/mathe_bsp.md
 
-version: 0.1.5
+title:     Mathematik mit LaTeX in LiaScript
+logo:      ../assets/img/Logo_234px.png
+comment:   this short course explains math mode in liascript (in german)
+tags:      Wissensspeicher
 
-narrator: German Female
-
-edit: true
-date: 2025-05-10
-
-logo: ../assets/img/Logo_234px.png
-
-comment:  this short course explains math mode in liascript (in german)
-
-import: https://raw.githubusercontent.com/liaTemplates/algebrite/master/README.md
-
-title: Mathematik mit LaTeX in LiaScript
-
-tags:  Wissensspeicher
+import:    https://raw.githubusercontent.com/liaTemplates/algebrite/master/README.md
 -->
 
 [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/vgoehler/DiAgnostiK_LiaScript/master/mathe_bsp.md)

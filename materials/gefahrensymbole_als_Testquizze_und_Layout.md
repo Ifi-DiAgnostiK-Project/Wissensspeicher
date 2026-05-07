@@ -1,17 +1,20 @@
 <!--
-author: Hilke Domsch
-comment: Hilkes Fragen am 20.05.25, mit Volkers Antworten
-version: 0.0.10
-language: de
-edit: true
-date: 2025-05-20
-logo: ../assets/img/Logo_234px.png
-import: https://raw.githubusercontent.com/wenik35/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
-import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
-import: https://raw.githubusercontent.com/wenik35/LiaScript_ImageQuiz/refs/heads/main/README.md
+author:    Hilke Domsch
+date:      2025-05-20
+version:   0.0.10
 
-tags:  Wissensspeicher,
-       Gefahrstoffe
+language:  de
+
+edit:      https://github.dev/Ifi-DiAgnostiK-Project/Wissensspeicher/blob/main/materials/gefahrensymbole_als_Testquizze_und_Layout.md
+
+logo:      ../assets/img/Logo_234px.png
+comment:   Hilkes Fragen am 20.05.25, mit Volkers Antworten
+tags:      Wissensspeicher,
+           Gefahrstoffe
+
+import:    https://raw.githubusercontent.com/wenik35/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/wenik35/LiaScript_ImageQuiz/refs/heads/main/README.md
 
 @style
 .choice-selected {
@@ -19,7 +22,6 @@ tags:  Wissensspeicher,
     border-radius: 4px !important;
     border: 2px solid rgb(var(--color-highlight));
 }
-
 .choices-container img {
     padding: 5px;
     height: auto;
@@ -28,19 +30,16 @@ tags:  Wissensspeicher,
     user-select: none;
     cursor: pointer;
 }
-
 .flex-container {
     display: flex;
     flex-wrap: wrap; /* Allows the items to wrap as needed */
     align-items: stretch;
     gap: 20px; /* Adds both horizontal and vertical spacing between items */
 }
-
 .flex-child {
     flex: 1;
     margin-right: 20px; /* Adds space between the columns */
 }
-
 @media (max-width: 600px) {
     .flex-child {
         flex: 100%; /* Makes the child divs take up the full width on slim devices */
@@ -51,6 +50,7 @@ tags:  Wissensspeicher,
 -->
 
 # Gefahrensymbole als Testquizze und Layout
+
 LiaScript Badges
 ====
 

@@ -1,31 +1,31 @@
 <!--
-author: <name hier - semikolon trennt mehrere Autoren>
-email:    <email hier - semikolon trennt mehrere Emails>
-language: de
-narrator: German Female
-version: 0.0.1
-edit: true
-date: <Datum hier>
-comment: <Kommentar hier>
-title: Templatefile <der Title für die Übersichtsseite>
+author:    <name hier - semikolon trennt mehrere Autoren>
+email:     <email hier - semikolon trennt mehrere Emails>
+date:      <Datum hier>
+version:   0.0.1
 
-tags:
-  - Wissensspeicher
-  - <Tag1>
-  - <Tag2>
+narrator:  German Female
+language:  de
 
-link: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/style.css
+edit:      true
 
-icon: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/img/Logo_234px.png
-logo: <Pfad zum Logo hier>
+title:     Templatefile <der Title für die Übersichtsseite>
+comment:   <Kommentar hier>
+tags:      Wissensspeicher,
+           <Tag1>,
+           <Tag2>
 
-import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_ImageQuiz/refs/heads/main/README.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Holzarten/refs/heads/main/makros.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/makros.md
+link:      https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/style.css
 
+icon:      https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/img/Logo_234px.png
+logo:      <Pfad zum Logo hier>
+
+import:    https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_ImageQuiz/refs/heads/main/README.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Holzarten/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/makros.md
 -->
 
 # LiaScript Makros

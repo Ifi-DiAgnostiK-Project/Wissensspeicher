@@ -1,18 +1,20 @@
 <!--
-author: Volker Göhler
-email:    volker.goehler@informatik.tu-freiberg.de
-language: de
-narrator: German Female
-version: 0.0.7
-edit: true
-date: 2025-06-10
-logo: ../assets/img/Logo_234px.png
-comment: this is only a test for image sizes in conjunction with quizes
+author:    Volker Göhler
+email:     volker.goehler@informatik.tu-freiberg.de
+date:      2025-06-10
+version:   0.0.7
 
-import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
+narrator:  German Female
+language:  de
 
-tags:   Wissensspeicher,
-        Gefahrstoffe
+edit:      https://github.dev/Ifi-DiAgnostiK-Project/Wissensspeicher/blob/main/materials/gefahrensymbole_groessen_test_v2.md
+
+logo:     ../assets/img/Logo_234px.png
+comment:  this is only a test for image sizes in conjunction with quizes
+tags:     Wissensspeicher,
+          Gefahrstoffe
+
+import:   https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
 
 @style
 .flex-container {
@@ -21,12 +23,10 @@ tags:   Wissensspeicher,
     align-items: stretch;
     gap: 20px; /* Adds both horizontal and vertical spacing between items */
 }
-
 .flex-child {
     flex: 1;
     margin-right: 20px; /* Adds space between the columns */
 }
-
 @media (max-width: 600px) {
     .flex-child {
         flex: 100%; /* Makes the child divs take up the full width on slim devices */
@@ -34,8 +34,8 @@ tags:   Wissensspeicher,
     }
 }
 @end
-
 -->
+
 # Gefahrensymbole Größen Test V2
 
 LiaScript Badges
